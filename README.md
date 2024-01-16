@@ -1,4 +1,4 @@
-**# Cholare La Lumiere App**
+# Cholare La Lumiere App
 
 Welcome to the Cholare La Lumiere App, a React Native Expo project integrated with Firebase. This application serves as a centralized platform for managing and enjoying  Cholare La Lumiere Songs.
 
