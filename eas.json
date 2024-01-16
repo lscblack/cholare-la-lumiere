@@ -1,0 +1,23 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk",
+        "node": "20.9.0" 
+      }
+    },
+    "preview2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease",
+        "node": "20.9.0" 
+      }
+    },
+    "preview3": {
+      "developmentClient": true,
+      "node": "20.9.0" 
+    },
+    "production": {
+      "node": "20.9.0" 
+    }
+  }
+}
